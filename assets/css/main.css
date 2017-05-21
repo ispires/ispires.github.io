@@ -1709,7 +1709,16 @@
 				width: 48px;
 				height: 48px;
 			}
+		.image.avatar150 {
+			width: 150px;
+			height: 150px;
+			background: #f00;
+		}
 
+			.image.avatar150 img {
+				width: 150px;
+				height: 150px;
+			}
 		.image.fit {
 			display: block;
 			width: 100%;
